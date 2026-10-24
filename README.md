@@ -13,12 +13,9 @@ A premium, privacy-first JSON toolkit for developers. Format, validate, and mini
 
 DevJSON Studio is a client-side JSON workbench built with React 19 and Vite 8. It turns raw JSON into a readable, valid, or minified form through a two-panel workspace with live validation, token-based syntax highlighting, and a persistent dark/light theme. Because all parsing runs locally with the native `JSON.parse`/`JSON.stringify` engine, it is completely private: no backend, no analytics, no network traffic — the app works fully offline.
 
-## Screenshot
+## Preview
 
-<!-- Add a real screenshot here, e.g. save it as docs/screenshot.png and uncomment:
-![DevJSON Studio interface](docs/screenshot.png)
--->
-_Placeholder: add a screenshot of the two-panel workspace (e.g. `docs/screenshot.png`) here._
+![DevJSON Studio interface](docs/Screenshot.png)
 
 ## Features
 
